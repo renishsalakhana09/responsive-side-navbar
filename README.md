@@ -7,9 +7,11 @@ I have created a Responsive Side Navigation Bar in HTML CSS, and JavaScript. I h
 
 ## `1:`
 
-![image](https://user-images.githubusercontent.com/104903815/180752609-6acc87fd-bc7b-487d-a031-69a244c4f345.png)
+![image](https://user-images.githubusercontent.com/104903815/193251795-a037b922-2477-4512-b024-5c67bdbccde9.png)
+
 
 ## `2:`
 
-![image](https://user-images.githubusercontent.com/104903815/180752776-9febd48f-8aab-4eb2-aa57-15419dd06a46.png)
+![image](https://user-images.githubusercontent.com/104903815/193252033-5c336709-dc12-45cc-b084-b38f3ff3ad97.png)
+
 
